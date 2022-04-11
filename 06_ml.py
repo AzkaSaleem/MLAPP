@@ -1,4 +1,4 @@
-#import libararies
+#import libararies all
 import streamlit as st 
 import numpy as np 
 import matplotlib.pyplot as plt
